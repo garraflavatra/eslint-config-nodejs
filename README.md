@@ -1,5 +1,5 @@
 # eslint-config-node
-Eslint config for node
+Eslint config for Node.js. This is now part of [yeslint!](https://github.com/garraflavatra/yeslint).
 
 ## installation
 `npm i -D johbog/eslint-config-nodejs`
